@@ -1,4 +1,4 @@
-docker build -t pparitosh/dockerwebapp .
+doocker build -t pparitosh/dockerwebapp .
 
 docker images
 
